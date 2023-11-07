@@ -1,0 +1,230 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Apps\\StoxCompany-Test Technique-Arash Kamkar Shahroudi\\ToDoList\\ToDoList\\ToDoList.csproj": {}
+  },
+  "projects": {
+    "D:\\Apps\\StoxCompany-Test Technique-Arash Kamkar Shahroudi\\ToDoList\\ToDoList.BusinessLayer\\ToDoList.BusinessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Apps\\StoxCompany-Test Technique-Arash Kamkar Shahroudi\\ToDoList\\ToDoList.BusinessLayer\\ToDoList.BusinessLayer.csproj",
+        "projectName": "ToDoList.BusinessLayer",
+        "projectPath": "D:\\Apps\\StoxCompany-Test Technique-Arash Kamkar Shahroudi\\ToDoList\\ToDoList.BusinessLayer\\ToDoList.BusinessLayer.csproj",
+        "packagesPath": "C:\\Users\\Arash\\.nuget\\packages\\",
+        "outputPath": "D:\\Apps\\StoxCompany-Test Technique-Arash Kamkar Shahroudi\\ToDoList\\ToDoList.BusinessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Arash\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Apps\\StoxCompany-Test Technique-Arash Kamkar Shahroudi\\ToDoList\\ToDoList.DataLayer\\ToDoList.DataLayer.csproj": {
+                "projectPath": "D:\\Apps\\StoxCompany-Test Technique-Arash Kamkar Shahroudi\\ToDoList\\ToDoList.DataLayer\\ToDoList.DataLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Apps\\StoxCompany-Test Technique-Arash Kamkar Shahroudi\\ToDoList\\ToDoList.DataLayer\\ToDoList.DataLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Apps\\StoxCompany-Test Technique-Arash Kamkar Shahroudi\\ToDoList\\ToDoList.DataLayer\\ToDoList.DataLayer.csproj",
+        "projectName": "ToDoList.DataLayer",
+        "projectPath": "D:\\Apps\\StoxCompany-Test Technique-Arash Kamkar Shahroudi\\ToDoList\\ToDoList.DataLayer\\ToDoList.DataLayer.csproj",
+        "packagesPath": "C:\\Users\\Arash\\.nuget\\packages\\",
+        "outputPath": "D:\\Apps\\StoxCompany-Test Technique-Arash Kamkar Shahroudi\\ToDoList\\ToDoList.DataLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Arash\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.13, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Apps\\StoxCompany-Test Technique-Arash Kamkar Shahroudi\\ToDoList\\ToDoList\\ToDoList.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Apps\\StoxCompany-Test Technique-Arash Kamkar Shahroudi\\ToDoList\\ToDoList\\ToDoList.csproj",
+        "projectName": "ToDoList",
+        "projectPath": "D:\\Apps\\StoxCompany-Test Technique-Arash Kamkar Shahroudi\\ToDoList\\ToDoList\\ToDoList.csproj",
+        "packagesPath": "C:\\Users\\Arash\\.nuget\\packages\\",
+        "outputPath": "D:\\Apps\\StoxCompany-Test Technique-Arash Kamkar Shahroudi\\ToDoList\\ToDoList\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Arash\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Apps\\StoxCompany-Test Technique-Arash Kamkar Shahroudi\\ToDoList\\ToDoList.BusinessLayer\\ToDoList.BusinessLayer.csproj": {
+                "projectPath": "D:\\Apps\\StoxCompany-Test Technique-Arash Kamkar Shahroudi\\ToDoList\\ToDoList.BusinessLayer\\ToDoList.BusinessLayer.csproj"
+              },
+              "D:\\Apps\\StoxCompany-Test Technique-Arash Kamkar Shahroudi\\ToDoList\\ToDoList.DataLayer\\ToDoList.DataLayer.csproj": {
+                "projectPath": "D:\\Apps\\StoxCompany-Test Technique-Arash Kamkar Shahroudi\\ToDoList\\ToDoList.DataLayer\\ToDoList.DataLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[6.12.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

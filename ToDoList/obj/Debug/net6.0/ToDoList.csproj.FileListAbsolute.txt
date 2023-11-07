@@ -1,0 +1,186 @@
+D:\Apps\StoxCompany\ToDoList\ToDoList\bin\Debug\net6.0\appsettings.Development.json
+D:\Apps\StoxCompany\ToDoList\ToDoList\bin\Debug\net6.0\appsettings.json
+D:\Apps\StoxCompany\ToDoList\ToDoList\bin\Debug\net6.0\ToDoList.exe
+D:\Apps\StoxCompany\ToDoList\ToDoList\bin\Debug\net6.0\ToDoList.deps.json
+D:\Apps\StoxCompany\ToDoList\ToDoList\bin\Debug\net6.0\ToDoList.runtimeconfig.json
+D:\Apps\StoxCompany\ToDoList\ToDoList\bin\Debug\net6.0\ToDoList.dll
+D:\Apps\StoxCompany\ToDoList\ToDoList\bin\Debug\net6.0\ToDoList.pdb
+D:\Apps\StoxCompany\ToDoList\ToDoList\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Apps\StoxCompany\ToDoList\ToDoList\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Apps\StoxCompany\ToDoList\ToDoList\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Apps\StoxCompany\ToDoList\ToDoList\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Apps\StoxCompany\ToDoList\ToDoList\obj\Debug\net6.0\ToDoList.csproj.AssemblyReference.cache
+D:\Apps\StoxCompany\ToDoList\ToDoList\obj\Debug\net6.0\ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Apps\StoxCompany\ToDoList\ToDoList\obj\Debug\net6.0\ToDoList.AssemblyInfoInputs.cache
+D:\Apps\StoxCompany\ToDoList\ToDoList\obj\Debug\net6.0\ToDoList.AssemblyInfo.cs
+D:\Apps\StoxCompany\ToDoList\ToDoList\obj\Debug\net6.0\ToDoList.csproj.CoreCompileInputs.cache
+D:\Apps\StoxCompany\ToDoList\ToDoList\obj\Debug\net6.0\ToDoList.MvcApplicationPartsAssemblyInfo.cs
+D:\Apps\StoxCompany\ToDoList\ToDoList\obj\Debug\net6.0\ToDoList.MvcApplicationPartsAssemblyInfo.cache
+D:\Apps\StoxCompany\ToDoList\ToDoList\obj\Debug\net6.0\staticwebassets\msbuild.ToDoList.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Apps\StoxCompany\ToDoList\ToDoList\obj\Debug\net6.0\staticwebassets\msbuild.build.ToDoList.props
+D:\Apps\StoxCompany\ToDoList\ToDoList\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ToDoList.props
+D:\Apps\StoxCompany\ToDoList\ToDoList\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ToDoList.props
+D:\Apps\StoxCompany\ToDoList\ToDoList\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Apps\StoxCompany\ToDoList\ToDoList\obj\Debug\net6.0\staticwebassets.build.json
+D:\Apps\StoxCompany\ToDoList\ToDoList\obj\Debug\net6.0\staticwebassets.development.json
+D:\Apps\StoxCompany\ToDoList\ToDoList\obj\Debug\net6.0\scopedcss\bundle\ToDoList.styles.css
+D:\Apps\StoxCompany\ToDoList\ToDoList\obj\Debug\net6.0\ToDoList.csproj.CopyComplete
+D:\Apps\StoxCompany\ToDoList\ToDoList\obj\Debug\net6.0\ToDoList.dll
+D:\Apps\StoxCompany\ToDoList\ToDoList\obj\Debug\net6.0\refint\ToDoList.dll
+D:\Apps\StoxCompany\ToDoList\ToDoList\obj\Debug\net6.0\ToDoList.pdb
+D:\Apps\StoxCompany\ToDoList\ToDoList\obj\Debug\net6.0\ToDoList.genruntimeconfig.cache
+D:\Apps\StoxCompany\ToDoList\ToDoList\obj\Debug\net6.0\ref\ToDoList.dll
+D:\Apps\StoxCompany\ToDoList\ToDoList\bin\Debug\net6.0\ToDoList.BusinessLayer.dll
+D:\Apps\StoxCompany\ToDoList\ToDoList\bin\Debug\net6.0\ToDoList.DataLayer.dll
+D:\Apps\StoxCompany\ToDoList\ToDoList\bin\Debug\net6.0\ToDoList.BusinessLayer.pdb
+D:\Apps\StoxCompany\ToDoList\ToDoList\bin\Debug\net6.0\ToDoList.DataLayer.pdb
+D:\Apps\StoxCompany\ToDoList\ToDoList\bin\Debug\net6.0\Azure.Core.dll
+D:\Apps\StoxCompany\ToDoList\ToDoList\bin\Debug\net6.0\Azure.Identity.dll
+D:\Apps\StoxCompany\ToDoList\ToDoList\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Apps\StoxCompany\ToDoList\ToDoList\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Apps\StoxCompany\ToDoList\ToDoList\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Apps\StoxCompany\ToDoList\ToDoList\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Apps\StoxCompany\ToDoList\ToDoList\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Apps\StoxCompany\ToDoList\ToDoList\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Apps\StoxCompany\ToDoList\ToDoList\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Apps\StoxCompany\ToDoList\ToDoList\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Apps\StoxCompany\ToDoList\ToDoList\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Apps\StoxCompany\ToDoList\ToDoList\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Apps\StoxCompany\ToDoList\ToDoList\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Apps\StoxCompany\ToDoList\ToDoList\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Apps\StoxCompany\ToDoList\ToDoList\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Apps\StoxCompany\ToDoList\ToDoList\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Apps\StoxCompany\ToDoList\ToDoList\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Apps\StoxCompany\ToDoList\ToDoList\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Apps\StoxCompany\ToDoList\ToDoList\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Apps\StoxCompany\ToDoList\ToDoList\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Apps\StoxCompany\ToDoList\ToDoList\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Apps\StoxCompany\ToDoList\ToDoList\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Apps\StoxCompany\ToDoList\ToDoList\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Apps\StoxCompany\ToDoList\ToDoList\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Apps\StoxCompany\ToDoList\ToDoList\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Apps\StoxCompany\ToDoList\ToDoList\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Apps\StoxCompany\ToDoList\ToDoList\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Apps\StoxCompany\ToDoList\ToDoList\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Apps\StoxCompany\ToDoList\ToDoList\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Apps\StoxCompany\ToDoList\ToDoList\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Apps\StoxCompany\ToDoList\ToDoList\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Apps\StoxCompany\ToDoList\ToDoList\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Apps\StoxCompany\ToDoList\ToDoList\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Apps\StoxCompany\ToDoList\ToDoList\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Apps\StoxCompany\ToDoList\ToDoList\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Apps\StoxCompany\ToDoList\ToDoList\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Apps\StoxCompany\ToDoList\ToDoList\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Apps\StoxCompany\ToDoList\ToDoList\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Apps\StoxCompany\ToDoList\ToDoList\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Apps\StoxCompany\ToDoList\ToDoList\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Apps\StoxCompany\ToDoList\ToDoList\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Apps\StoxCompany\ToDoList\ToDoList\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Apps\StoxCompany\ToDoList\ToDoList\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Apps\StoxCompany\ToDoList\ToDoList\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Apps\StoxCompany\ToDoList\ToDoList\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Apps\StoxCompany\ToDoList\ToDoList\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Apps\StoxCompany\ToDoList\ToDoList\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Apps\StoxCompany\ToDoList\ToDoList\bin\Debug\net6.0\FluentAssertions.dll
+D:\Apps\StoxCompany\ToDoList\ToDoList\bin\Debug\net6.0\Humanizer.dll
+D:\Apps\StoxCompany\ToDoList\ToDoList\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Apps\StoxCompany\ToDoList\ToDoList\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Apps\StoxCompany\ToDoList\ToDoList\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Apps\StoxCompany\ToDoList\ToDoList\bin\Debug\net6.0\System.CodeDom.dll
+D:\Apps\StoxCompany\ToDoList\ToDoList\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Apps\StoxCompany\ToDoList\ToDoList\bin\Debug\net6.0\System.Text.Json.dll
+D:\Apps\StoxCompany\ToDoList\ToDoList\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Apps\StoxCompany\ToDoList\ToDoList\bin\Debug\net6.0\AutoMapper.dll
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\bin\Debug\net6.0\appsettings.Development.json
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\bin\Debug\net6.0\appsettings.json
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\bin\Debug\net6.0\ToDoList.exe
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\bin\Debug\net6.0\ToDoList.deps.json
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\bin\Debug\net6.0\ToDoList.runtimeconfig.json
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\bin\Debug\net6.0\ToDoList.dll
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\bin\Debug\net6.0\ToDoList.pdb
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\bin\Debug\net6.0\AutoMapper.dll
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\bin\Debug\net6.0\Azure.Core.dll
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\bin\Debug\net6.0\Azure.Identity.dll
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\bin\Debug\net6.0\FluentAssertions.dll
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\bin\Debug\net6.0\Humanizer.dll
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\bin\Debug\net6.0\System.CodeDom.dll
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\bin\Debug\net6.0\System.Text.Json.dll
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\bin\Debug\net6.0\ToDoList.BusinessLayer.dll
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\bin\Debug\net6.0\ToDoList.DataLayer.dll
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\bin\Debug\net6.0\ToDoList.BusinessLayer.pdb
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\bin\Debug\net6.0\ToDoList.DataLayer.pdb
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\obj\Debug\net6.0\ToDoList.csproj.AssemblyReference.cache
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\obj\Debug\net6.0\ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\obj\Debug\net6.0\ToDoList.AssemblyInfoInputs.cache
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\obj\Debug\net6.0\ToDoList.AssemblyInfo.cs
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\obj\Debug\net6.0\ToDoList.csproj.CoreCompileInputs.cache
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\obj\Debug\net6.0\ToDoList.MvcApplicationPartsAssemblyInfo.cs
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\obj\Debug\net6.0\ToDoList.MvcApplicationPartsAssemblyInfo.cache
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\obj\Debug\net6.0\staticwebassets\msbuild.ToDoList.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\obj\Debug\net6.0\staticwebassets\msbuild.build.ToDoList.props
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ToDoList.props
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ToDoList.props
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\obj\Debug\net6.0\staticwebassets.build.json
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\obj\Debug\net6.0\staticwebassets.development.json
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\obj\Debug\net6.0\scopedcss\bundle\ToDoList.styles.css
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\obj\Debug\net6.0\ToDoList.csproj.CopyComplete
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\obj\Debug\net6.0\ToDoList.dll
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\obj\Debug\net6.0\refint\ToDoList.dll
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\obj\Debug\net6.0\ToDoList.pdb
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\obj\Debug\net6.0\ToDoList.genruntimeconfig.cache
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList\obj\Debug\net6.0\ref\ToDoList.dll

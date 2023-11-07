@@ -1,0 +1,30 @@
+D:\Apps\StoxCompany\ToDoList\ToDoList.BusinessLayer\bin\Debug\net6.0\ToDoList.BusinessLayer.deps.json
+D:\Apps\StoxCompany\ToDoList\ToDoList.BusinessLayer\bin\Debug\net6.0\ToDoList.BusinessLayer.dll
+D:\Apps\StoxCompany\ToDoList\ToDoList.BusinessLayer\bin\Debug\net6.0\ToDoList.BusinessLayer.pdb
+D:\Apps\StoxCompany\ToDoList\ToDoList.BusinessLayer\bin\Debug\net6.0\ToDoList.DataLayer.dll
+D:\Apps\StoxCompany\ToDoList\ToDoList.BusinessLayer\bin\Debug\net6.0\ToDoList.DataLayer.pdb
+D:\Apps\StoxCompany\ToDoList\ToDoList.BusinessLayer\obj\Debug\net6.0\ToDoList.BusinessLayer.csproj.AssemblyReference.cache
+D:\Apps\StoxCompany\ToDoList\ToDoList.BusinessLayer\obj\Debug\net6.0\ToDoList.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Apps\StoxCompany\ToDoList\ToDoList.BusinessLayer\obj\Debug\net6.0\ToDoList.BusinessLayer.AssemblyInfoInputs.cache
+D:\Apps\StoxCompany\ToDoList\ToDoList.BusinessLayer\obj\Debug\net6.0\ToDoList.BusinessLayer.AssemblyInfo.cs
+D:\Apps\StoxCompany\ToDoList\ToDoList.BusinessLayer\obj\Debug\net6.0\ToDoList.BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Apps\StoxCompany\ToDoList\ToDoList.BusinessLayer\obj\Debug\net6.0\ToDoList.BusinessLayer.csproj.CopyComplete
+D:\Apps\StoxCompany\ToDoList\ToDoList.BusinessLayer\obj\Debug\net6.0\ToDoList.BusinessLayer.dll
+D:\Apps\StoxCompany\ToDoList\ToDoList.BusinessLayer\obj\Debug\net6.0\refint\ToDoList.BusinessLayer.dll
+D:\Apps\StoxCompany\ToDoList\ToDoList.BusinessLayer\obj\Debug\net6.0\ToDoList.BusinessLayer.pdb
+D:\Apps\StoxCompany\ToDoList\ToDoList.BusinessLayer\obj\Debug\net6.0\ref\ToDoList.BusinessLayer.dll
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList.BusinessLayer\bin\Debug\net6.0\ToDoList.BusinessLayer.deps.json
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList.BusinessLayer\bin\Debug\net6.0\ToDoList.BusinessLayer.dll
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList.BusinessLayer\bin\Debug\net6.0\ToDoList.BusinessLayer.pdb
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList.BusinessLayer\bin\Debug\net6.0\ToDoList.DataLayer.dll
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList.BusinessLayer\bin\Debug\net6.0\ToDoList.DataLayer.pdb
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList.BusinessLayer\obj\Debug\net6.0\ToDoList.BusinessLayer.csproj.AssemblyReference.cache
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList.BusinessLayer\obj\Debug\net6.0\ToDoList.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList.BusinessLayer\obj\Debug\net6.0\ToDoList.BusinessLayer.AssemblyInfoInputs.cache
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList.BusinessLayer\obj\Debug\net6.0\ToDoList.BusinessLayer.AssemblyInfo.cs
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList.BusinessLayer\obj\Debug\net6.0\ToDoList.BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList.BusinessLayer\obj\Debug\net6.0\ToDoList.BusinessLayer.csproj.CopyComplete
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList.BusinessLayer\obj\Debug\net6.0\ToDoList.BusinessLayer.dll
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList.BusinessLayer\obj\Debug\net6.0\refint\ToDoList.BusinessLayer.dll
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList.BusinessLayer\obj\Debug\net6.0\ToDoList.BusinessLayer.pdb
+D:\Apps\StoxCompany-Test Technique-Arash Kamkar Shahroudi\ToDoList\ToDoList.BusinessLayer\obj\Debug\net6.0\ref\ToDoList.BusinessLayer.dll
